@@ -1,0 +1,8 @@
+Threading
+datetime
+BeautifulSoup
+requests
+open_workbook
+TextBlob
+
+Install above libraries using the Pycharm software given.
